@@ -1,0 +1,15 @@
+C:\Users\marcos.borges\Documents\Visual Studio 2013\Projects\Wpf_MVVM_Crud\Wpf_MVVM_Crud\obj\Debug\Wpf_MVVM_Crud.csprojResolveAssemblyReference.cache
+C:\Users\marcos.borges\Documents\Visual Studio 2013\Projects\Wpf_MVVM_Crud\Wpf_MVVM_Crud\obj\Debug\FuncionarioWindow.baml
+C:\Users\marcos.borges\Documents\Visual Studio 2013\Projects\Wpf_MVVM_Crud\Wpf_MVVM_Crud\obj\Debug\ListaDeFuncionariosWindow.baml
+C:\Users\marcos.borges\Documents\Visual Studio 2013\Projects\Wpf_MVVM_Crud\Wpf_MVVM_Crud\obj\Debug\FuncionarioWindow.g.cs
+C:\Users\marcos.borges\Documents\Visual Studio 2013\Projects\Wpf_MVVM_Crud\Wpf_MVVM_Crud\obj\Debug\ListaDeFuncionariosWindow.g.cs
+C:\Users\marcos.borges\Documents\Visual Studio 2013\Projects\Wpf_MVVM_Crud\Wpf_MVVM_Crud\obj\Debug\App.g.cs
+C:\Users\marcos.borges\Documents\Visual Studio 2013\Projects\Wpf_MVVM_Crud\Wpf_MVVM_Crud\obj\Debug\Wpf_MVVM_Crud_MarkupCompile.cache
+C:\Users\marcos.borges\Documents\Visual Studio 2013\Projects\Wpf_MVVM_Crud\Wpf_MVVM_Crud\obj\Debug\Wpf_MVVM_Crud.g.resources
+C:\Users\marcos.borges\Documents\Visual Studio 2013\Projects\Wpf_MVVM_Crud\Wpf_MVVM_Crud\obj\Debug\Wpf_MVVM_Crud.Properties.Resources.resources
+C:\Users\marcos.borges\Documents\Visual Studio 2013\Projects\Wpf_MVVM_Crud\Wpf_MVVM_Crud\obj\Debug\Wpf_MVVM_Crud.csproj.GenerateResource.Cache
+C:\Users\marcos.borges\Documents\Visual Studio 2013\Projects\Wpf_MVVM_Crud\Wpf_MVVM_Crud\bin\Debug\Wpf_MVVM_Crud.exe.config
+C:\Users\marcos.borges\Documents\Visual Studio 2013\Projects\Wpf_MVVM_Crud\Wpf_MVVM_Crud\bin\Debug\Wpf_MVVM_Crud.exe
+C:\Users\marcos.borges\Documents\Visual Studio 2013\Projects\Wpf_MVVM_Crud\Wpf_MVVM_Crud\bin\Debug\Wpf_MVVM_Crud.pdb
+C:\Users\marcos.borges\Documents\Visual Studio 2013\Projects\Wpf_MVVM_Crud\Wpf_MVVM_Crud\obj\Debug\Wpf_MVVM_Crud.exe
+C:\Users\marcos.borges\Documents\Visual Studio 2013\Projects\Wpf_MVVM_Crud\Wpf_MVVM_Crud\obj\Debug\Wpf_MVVM_Crud.pdb
